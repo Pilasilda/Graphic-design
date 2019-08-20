@@ -5,6 +5,6 @@ A volunteer project that was developed during the summer using photoshop.
 * **Pilasilda A.George** 
 
 ## Tools 
-* **Photoshop 
+* **Photoshop**
 
 ## License
